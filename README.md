@@ -1,5 +1,5 @@
 # saga2-ds-meat-chainer
-A Prolog program that tells you how to get certain monsters in the DS remake of SaGa 2.
+A Prolog program that tells you how to get certain monsters in the DS remake of SaGa 2: Hihou Densetsu.
 
 So far, it has two predicates:
 meat(Eater,Meat,Result), and meatchain(Eater,Result,Meatchain).
