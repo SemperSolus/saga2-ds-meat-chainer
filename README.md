@@ -28,8 +28,9 @@ Prolog is an amazing language for things like this. Did you know it's older than
 
 * Finish adding all the transformation rules
 * Find out the English fan-translation names for everything
-* Add a boolean thingy so I can divide all the meats by the worlds they are found in
-* Add another predicate that finds the latest monster in Meatchain that has index of 3n - x - 1, where x is the number of meats you have already eaten mod 3, and n is a natural number. (As near as I can figure out, that's the one you inherit some monster power from. Wouldn't it be cool if this program calculated how to get you a fairy that had a sword's immunity to element damage?)
+* ~~Add a boolean thingy so I can divide all the meats by the worlds they are found in~~
+* ~~Add another predicate that finds the latest monster in Meatchain that has index of 3n - x - 1, where x is the number of meats you have already eaten mod 3, and n is a natural number. (As near as I can figure out, that's the one you inherit some monster power from. Wouldn't it be cool if this program calculated how to get you a fairy that had a sword's immunity to element damage?)~~ Trait inheritance and monster mutation both seem random, but the latter is heavily influenced by the number of meats you have eaten. Since I'm not a reverse engineer, I can't find out more.
+* Write a predicate that lets you say, "turn into X by way of being a Y", so you can become an X with an ability from a Y.
 
 
 # Contributors welcome!
